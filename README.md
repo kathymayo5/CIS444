@@ -1,3 +1,5 @@
 # CIS444
+Web Programming
+
 Professor Shaun-Inn Wu
-Web Programming - HTML , JavaScript, PHP
+
